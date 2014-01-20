@@ -1,8 +1,8 @@
-# Anagram Server 2 Ludicrous Speed 
- 
-##Learning Competencies 
+# Anagram Server 2 Ludicrous Speed
 
-##Summary 
+##Learning Competencies
+
+##Summary
 
  Our last Anagram Server had a single database table, `words`, with maybe four columns: `(id, word, created_at, updated_at)`.  The dictionary file we imported contained around 250,000 words.
 
@@ -48,11 +48,11 @@ This doesn't work for a wide variety of queries, though, like "Give me all peopl
 If you're curious, you can read more about [what index types Postgres supports](http://www.postgresql.org/docs/9.0/static/indexes-types.html).  The default index type for most databases is a [B-tree](http://en.wikipedia.org/wiki/B-tree) because it allows for generally efficient inserting, updating, deleting, and searching using both equality and comparison, i.e., `=`, `<`, `>`, `<=`, and `>=`.
 
 Here is an old blog post from Jesse about [database indexes](http://20bits.com/article/interview-questions-database-indexes), which are a common interview question.
- 
+
 
 ##Releases
-###Release 0 
+###Release 0
 
-##Optimize Your Learning 
+##Optimize Your Learning
 
 ##Resources
