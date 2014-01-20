@@ -1,8 +1,8 @@
 # Anagram Server 2 Ludicrous Speed
 
-##Learning Competencies
+## Learning Competencies
 
-##Summary
+## Summary
 
  Our last Anagram Server had a single database table, `words`, with maybe four columns: `(id, word, created_at, updated_at)`.  The dictionary file we imported contained around 250,000 words.
 
@@ -50,9 +50,9 @@ If you're curious, you can read more about [what index types Postgres supports](
 Here is an old blog post from Jesse about [database indexes](http://20bits.com/article/interview-questions-database-indexes), which are a common interview question.
 
 
-##Releases
-###Release 0
+## Releases
+### Release 0
 
-##Optimize Your Learning
+## Optimize Your Learning
 
-##Resources
+## Resources
