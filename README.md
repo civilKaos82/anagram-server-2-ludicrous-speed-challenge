@@ -84,8 +84,8 @@ are a common interview question.
 ## Resources
 
 * [Spaceballs][ludicrous speed]: A fine film by Mel Brooks
-* [ActiveRecord callbacks][]: http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html
-* [Postgres indices][postgres indices]: http://www.postgresql.org/docs/9.0/static/indexes-types.html
+* [ActiveRecord callbacks][]
+* [Postgres indices][postgres indices]
 * [B-tree][] data structure
 * [Database indexes in general][database indices]
 
