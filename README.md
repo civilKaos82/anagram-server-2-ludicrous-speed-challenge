@@ -2,9 +2,10 @@
 
 ## Learning Competencies
 
-* Learn about [ActiveRecord callbacks][].
-* Gain familiarity with a particularly common read / write performance tradeoff.
+* Enumerate ~12 [ActiveRecord callbacks][]
 * Create a database index
+* Describe common read / write performance tradeoff associated with creating an
+  index
 
 ## Summary
 
