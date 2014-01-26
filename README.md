@@ -2,9 +2,9 @@
 
 ## Learning Competencies
 
-* Learn about [ActiveRecord callbacks][].
-* Gain familiarity with a particularly common read / write performance tradeoff.
-* Create a database index
+* Use [ActiveRecord callbacks][].
+* Use tools to evaluate basic performance considerations, benchmarking, and tradeoffs between memory and speed 
+* Create an index and quantify the improvement it can provide
 
 ## Summary
 
@@ -15,6 +15,8 @@ contained around 250,000 words.
 We want to augment our database schema to make the operation "give me all the
 anagrams of a particular word" fast and simple.  We're talking [ludicrous
 speed][].
+
+Copy the `anagrams_1` source from the [[Anagram Server 1: The Basics](https://github.com/sea-lions-2014/anagram-server-1-the-basics-challenge) challenge into the source directory of this challenge and refactor that code. 
 
 ## Releases
 
@@ -51,11 +53,9 @@ consistency of all the indexes.  They are keyed off of a specific column or set
 of columns so that queries like "Give me all people with a last name of
 'Smith'" are fast.
 
-### Submit It!
+## Optimize Your Learning
 
-Upload any files you've changed in a pull request.
-
-## More on Database Indexes
+**Here's a bit more on Database Indexes**
 
 This is purely extra; the below will make more sense later in DBC and after
 you've been playing around with databases for a few weeks.  Don't sweat it if
