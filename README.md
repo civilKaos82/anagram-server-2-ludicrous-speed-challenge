@@ -2,9 +2,10 @@
 
 ## Learning Competencies
 
-* Use [ActiveRecord callbacks][].
-* Use tools to evaluate basic performance considerations, benchmarking, and tradeoffs between memory and speed 
-* Create an index and quantify the improvement it can provide
+* Use [ActiveRecord callbacks][]
+* Create a database index
+* Describe common read / write performance tradeoffs associated with creating an
+  index
 
 ## Summary
 
