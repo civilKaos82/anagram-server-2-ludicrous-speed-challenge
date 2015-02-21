@@ -17,7 +17,7 @@ We want to augment our database schema to make the operation "give me all the
 anagrams of a particular word" fast and simple.  We're talking [ludicrous
 speed][].
 
-Copy the `anagrams_1` source from the [[Anagram Server 1: The Basics](https://github.com/sea-lions-2014/anagram-server-1-the-basics-challenge) challenge into the source directory of this challenge and refactor that code. 
+Copy the `anagrams_1` source from the [[Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge) challenge into the source directory of this challenge and refactor that code. 
 
 ## Releases
 
