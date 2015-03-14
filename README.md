@@ -94,4 +94,4 @@ are a common interview question.
 [ludicrous speed]: http://www.youtube.com/watch?v=mk7VWcuVOf0
 [postgres indices]: http://www.postgresql.org/docs/9.0/static/indexes-types.html
 [B-tree]: http://en.wikipedia.org/wiki/B-tree
-[database indices]: http://20bits.com/article/interview-questions-database-indexes
+[database indices]: https://web.archive.org/web/20140703123428/http://20bits.com/article/interview-questions-database-indexes
